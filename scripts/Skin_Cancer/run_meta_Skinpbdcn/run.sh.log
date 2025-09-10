@@ -1,0 +1,5 @@
+nohup: ignoring input
+  File "./run.sh", line 1
+    ./run_pretrain.sh
+    ^
+SyntaxError: invalid syntax
